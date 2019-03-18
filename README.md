@@ -1,0 +1,2 @@
+# dekos
+all
